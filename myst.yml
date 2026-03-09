@@ -2,14 +2,16 @@
 version: 1
 project:
   id: 34ab3f2d-a513-4e17-a693-fc342374d4f9
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: komputasi aljabar linear
+  description: ini adalah project yang berkaitan dengan matakuliah komputasi aljabar linear
+  keywords: -aljabar linear
+    -matriks,
+
+  authors: [moh. busiri]
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
   # options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+  logo: logo.png
